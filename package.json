@@ -1,0 +1,24 @@
+{
+  "name": "hsbs-team",
+  "version": "1.0.0",
+  "description": "Application Development Team",
+  "main": "main.js",
+  "scripts": {
+    "start":"node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sannya256/HSBS-team.git"
+  },
+  "author": "HSBS Team",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sannya256/HSBS-team/issues"
+  },
+  "homepage": "https://github.com/sannya256/HSBS-team#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  }
+}

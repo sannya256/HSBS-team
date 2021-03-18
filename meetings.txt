@@ -1,0 +1,55 @@
+Group Meetings
+
+Friday 22nd Jan
+-Agreed to set an agenda before every meeting can go ahead without delay and efficiently use our time during the meeting. 
+-Discuss Questions we can put to Kevin regarding any uncertainties around project.
+-Each create a brainstorm for others in the group of what features could be developed 
+ in this project if we were to make it using the business idea, we each used for our databases coursework.
+
+Tuesday 26th Jan..
+-Practiced using GitHub and trying to understand how to use it, during our zoom meeting.
+
+Friday 29th Jan
+-make use of technical terms throughout our work. 
+- decided on the MVP: a communicative platform for liaising with medical colleges in other parts of the world.
+
+Monday 1st Feb (seminar)
+- talking about the computer programming languages needed to complete the project. The non negotiable elements Git, node.js, etc
+
+Wednesday 3rd Feb
+- Going over coursework making last alterations before submission. 
+
+Monday 8th Feb
+- Talk about what is in the 2nd sprint.
+UML Diagrams, User case stories, Illustrations of screens. 
+
+Thursday 11th Feb 
+- Talk to Kevin regarding first sprint submission 
+- were meeting 3 times a week atm Mon, Tues and Fri.
+- Harry project Owner -Steering project 
+- Sandra Scrum master -Driving project forward
+
+Friday 12th Feb 
+- Talked about making UML diagrams ourselves and posting to the GitHub repository for Monday. Also use Tuesdays meetings for any technical issues we don't understand.
+
+Monday 15th Feb
+- Did standup, looking into user stories, some made user stories. Diagrams are still iffy so need to be looked into more. Discussing user stories and the personas involved in our app. I.e. Doctors, Nurses and admin
+
+Tuesday 16th Feb 
+- Agreed to meet on Saturday so we can focus on cybersecurity report this week.
+
+Saturday 20th Feb
+- We collaborated on word on one drive to come up with user stories.
+
+Monday 22nd Feb 
+Collaborating on diagrams made so far.
+
+Tuesday 23rd Feb
+Collaborating on diagrams made so far and delegating the workload towards the end.
+
+Wednesday 24th Feb 
+Reviewing each others diagrams, understanding the logic and making changes.
+
+
+
+
